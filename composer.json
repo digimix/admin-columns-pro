@@ -1,0 +1,27 @@
+
+{
+    "name": "digimix/admin-columns-pro",
+    "description": "A special version of admin columns pro for WordPress.",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Digimix",
+            "email": "hello@digimix.co",
+            "homepage": "https://digimix.co/",
+            "role": "Developer"
+        }
+    ],
+    "keywords": ["wordpress", "plugin", "admin"],
+    "homepage": "https://github.com/digimix/admin-columns-pro",
+    "type": "wordpress-plugin",
+    "support": {
+        "issues": "https://github.com/digimix/admin-columns-pro/issues",
+        "source": "https://github.com/digimix/admin-columns-pro"
+    },
+    "require": {
+        "php": ">5.2.4"
+    },
+    "suggest": {
+        "composer/installers": "~1.0"
+    }
+}
